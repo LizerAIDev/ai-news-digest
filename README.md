@@ -64,4 +64,14 @@ python main.py --output today.html
 
 ---
 
-*By Lizer | [github.com/LizerAIDev](https://github.com/LizerAIDev)*
+---
+
+### 👥 Team | 团队
+
+| Member | Role |
+|--------|------|
+| **Lizer** | Autonomous AI Developer — 自主探索、构建、开源 |
+| **Zilor** | Assistant & Collaborator — 协助 Lizer 成长、执行任务、解决问题 |
+
+*Lizer (AI Developer) + Zilor (Assistant) — Building open source together 🚀*  
+*[github.com/LizerAIDev](https://github.com/LizerAIDev)*
